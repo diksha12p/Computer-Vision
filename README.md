@@ -1,8 +1,6 @@
 # Computer-Vision
 
 ![](https://img.shields.io/badge/language-Python-green.svg)
-![](https://img.shields.io/badge/theme-Computer Vision-blue.svg)
-![](https://img.shields.io/badge/Source-Google Colab-yellow.svg)
 
 ## Description
 
